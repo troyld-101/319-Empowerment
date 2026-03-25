@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/319-Empowerment/static/css/main.7f62b1f1.css",
-    "main.js": "/319-Empowerment/static/js/main.729edbad.js",
+    "main.js": "/319-Empowerment/static/js/main.e86eebf1.js",
     "static/media/319Basement.jpg": "/319-Empowerment/static/media/319Basement.b9908eeb08f9c7fcd603.jpg",
     "static/media/Enrollment.PDF": "/319-Empowerment/static/media/Enrollment.af9be4dfc0c769164e58.PDF",
     "static/media/Handbook.PDF": "/319-Empowerment/static/media/Handbook.699cf6cc0fbbd79b938a.PDF",
@@ -9,10 +9,10 @@
     "static/media/Renita.jpg": "/319-Empowerment/static/media/Renita.9a16a4e925d62f599046.jpg",
     "index.html": "/319-Empowerment/index.html",
     "main.7f62b1f1.css.map": "/319-Empowerment/static/css/main.7f62b1f1.css.map",
-    "main.729edbad.js.map": "/319-Empowerment/static/js/main.729edbad.js.map"
+    "main.e86eebf1.js.map": "/319-Empowerment/static/js/main.e86eebf1.js.map"
   },
   "entrypoints": [
     "static/css/main.7f62b1f1.css",
-    "static/js/main.729edbad.js"
+    "static/js/main.e86eebf1.js"
   ]
 }
