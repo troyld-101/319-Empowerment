@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/troyld-101/319-Empowerment.git/static/css/main.7f62b1f1.css",
-    "main.js": "/troyld-101/319-Empowerment.git/static/js/main.7d810f1b.js",
-    "static/media/319Basement.jpg": "/troyld-101/319-Empowerment.git/static/media/319Basement.b9908eeb08f9c7fcd603.jpg",
-    "static/media/Enrollment.PDF": "/troyld-101/319-Empowerment.git/static/media/Enrollment.af9be4dfc0c769164e58.PDF",
-    "static/media/Handbook.PDF": "/troyld-101/319-Empowerment.git/static/media/Handbook.699cf6cc0fbbd79b938a.PDF",
-    "static/media/Alexis.jpg": "/troyld-101/319-Empowerment.git/static/media/Alexis.d14c9ce2439be6ed15f4.jpg",
-    "static/media/Renita.jpg": "/troyld-101/319-Empowerment.git/static/media/Renita.9a16a4e925d62f599046.jpg",
-    "index.html": "/troyld-101/319-Empowerment.git/index.html",
-    "main.7f62b1f1.css.map": "/troyld-101/319-Empowerment.git/static/css/main.7f62b1f1.css.map",
-    "main.7d810f1b.js.map": "/troyld-101/319-Empowerment.git/static/js/main.7d810f1b.js.map"
+    "main.css": "/319-Empowerment/static/css/main.7f62b1f1.css",
+    "main.js": "/319-Empowerment/static/js/main.729edbad.js",
+    "static/media/319Basement.jpg": "/319-Empowerment/static/media/319Basement.b9908eeb08f9c7fcd603.jpg",
+    "static/media/Enrollment.PDF": "/319-Empowerment/static/media/Enrollment.af9be4dfc0c769164e58.PDF",
+    "static/media/Handbook.PDF": "/319-Empowerment/static/media/Handbook.699cf6cc0fbbd79b938a.PDF",
+    "static/media/Alexis.jpg": "/319-Empowerment/static/media/Alexis.d14c9ce2439be6ed15f4.jpg",
+    "static/media/Renita.jpg": "/319-Empowerment/static/media/Renita.9a16a4e925d62f599046.jpg",
+    "index.html": "/319-Empowerment/index.html",
+    "main.7f62b1f1.css.map": "/319-Empowerment/static/css/main.7f62b1f1.css.map",
+    "main.729edbad.js.map": "/319-Empowerment/static/js/main.729edbad.js.map"
   },
   "entrypoints": [
     "static/css/main.7f62b1f1.css",
-    "static/js/main.7d810f1b.js"
+    "static/js/main.729edbad.js"
   ]
 }
