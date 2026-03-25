@@ -11,7 +11,7 @@ const Navigation = () => {
 
 	return (
 		<>
-			<Navbar bg="light" expand="lg" className="shadow-sm fixed-top py-3">
+			<Navbar bg="light" expand="lg" className="shadow-sm sticky-top py-3">
 				<Container>
 					<Navbar.Brand
 						href="#home"
