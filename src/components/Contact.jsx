@@ -12,7 +12,7 @@ const Contact = () => {
 				<div className="text-center mb-5">
 					<h2 className="display-5 fw-bold text-white">Get In Touch!</h2>
 					<p className="lead" style={{ color: "#c4978a" }}>
-						Reach out to learn more, volunteer, or support 319 Empowerment.
+						Reach out to learn more, volunteer, or support 319 EMPOWERMENT.
 					</p>
 				</div>
 

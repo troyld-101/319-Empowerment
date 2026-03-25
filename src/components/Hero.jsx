@@ -20,7 +20,7 @@ const Hero = () => {
 			<Container>
 				{/* Main Headline from the brochure */}
 				<h1 className="display-3 fw-bold text-white mb-3 tracking-tight">
-					319 Empowerment
+					319 EMPOWERMENT
 				</h1>
 
 				{/* Sub-headline / Tagline */}

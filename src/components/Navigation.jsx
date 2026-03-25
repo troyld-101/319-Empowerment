@@ -18,7 +18,7 @@ const Navigation = () => {
 						className="fw-bold fs-4"
 						style={{ color: "#0a192f" }}
 					>
-						319 Empowerment
+						319 EMPOWERMENT
 					</Navbar.Brand>
 					<Navbar.Toggle aria-controls="basic-navbar-nav" />
 					<Navbar.Collapse id="basic-navbar-nav">
